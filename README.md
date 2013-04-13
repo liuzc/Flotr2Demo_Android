@@ -8,13 +8,12 @@ Flotr2的更多设置可以参考:[Flotr2简单使用及API介绍](http://liuzhi
 
 ## Screenshot
 
-
-![Flotr2](https://raw.github.com/liuzc/Flotr2Demo_Android/master/Flotr2Demo_2.png)
-![Flotr2](https://raw.github.com/liuzc/Flotr2Demo_Android/master/Flotr2Demo_3.png)
-![Flotr2](https://raw.github.com/liuzc/Flotr2Demo_Android/master/Flotr2Demo_4.png)
-![Flotr2](https://raw.github.com/liuzc/Flotr2Demo_Android/master/Flotr2Demo_5.png)
-![Flotr2](https://raw.github.com/liuzc/Flotr2Demo_Android/master/Flotr2Demo_6.png)
-![Flotr2](https://raw.github.com/liuzc/Flotr2Demo_Android/master/Flotr2Demo_7.png)
-![Flotr2](https://raw.github.com/liuzc/Flotr2Demo_Android/master/Flotr2Demo_8.png)
+![Flotr2](https://raw.github.com/liuzc/Flotr2Demo_Android/master/screenshot/Flotr2Demo_2.png)
+![Flotr2](https://raw.github.com/liuzc/Flotr2Demo_Android/master/screenshot/Flotr2Demo_3.png)
+![Flotr2](https://raw.github.com/liuzc/Flotr2Demo_Android/master/screenshot/Flotr2Demo_4.png)
+![Flotr2](https://raw.github.com/liuzc/Flotr2Demo_Android/master/screenshot/Flotr2Demo_5.png)
+![Flotr2](https://raw.github.com/liuzc/Flotr2Demo_Android/master/screenshot/Flotr2Demo_6.png)
+![Flotr2](https://raw.github.com/liuzc/Flotr2Demo_Android/master/screenshot/Flotr2Demo_7.png)
+![Flotr2](https://raw.github.com/liuzc/Flotr2Demo_Android/master/screenshot/Flotr2Demo_8.png)
 
 
